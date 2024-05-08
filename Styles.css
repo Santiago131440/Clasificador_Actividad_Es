@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1, h2 {
+  color: green;
+}
+
+button {
+  background-color: green;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+#search-bar {
+  width: 100%;
+  padding: 5px;
+}
+
+.categories, .items {
+  margin-top: 20px;
+}
+
+.top-items {
+  margin-top: 40px;
+}
